@@ -1,0 +1,66 @@
+ ul{
+	list-style-type: none;	
+
+	  margin-left: 45%;
+	
+	  		
+}
+li{
+	display: inline-block;
+	text-decoration: none;
+	
+	
+	
+}
+a{
+	color: black;
+	text-decoration: none;
+
+}
+header, body{
+	height: 90px;
+	margin-top: 1%; 
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(30,87,153,.5)), color-stop(50%,rgba(41,137,216,.5)), color-stop(51%,rgba(32,124,202,.5)), color-stop(100%,rgba(125,185,232,.5))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left,  rgba(30,87,153,.5) 0%,rgba(41,137,216,.5) 50%,rgba(32,124,202,.5) 51%,rgba(125,185,232,.5) 80%); /*Chrome10+,Safari5.1+/*/ /* Opera 11.10+ */ /* IE10+ */;
+background: -webkit-linear-gradient(left, rgba(243,235,212,.5) 0%, rgba(154,145,164,.5) 50%, rgba(139,148,144,.5) 51%, rgba(175,152,86,.5) 80%);;
+background: linear-gradient(to right,  rgba(243,235,212,.5) 0%,rgba(154,145,164,.5) 50%,rgba(139,148,144,.5) 51%,rgba(175,152,86,.5) 80%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=1 ); /* IE6-9 */
+}
+body {
+	font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif !important;
+	font-weight: 200;
+	font-size: 20px;
+}
+#mainTitle h2{
+	height: 90px;
+	margin-top: 1%; 
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(30,87,153,.5)), color-stop(50%,rgba(41,137,216,.5)), color-stop(51%,rgba(32,124,202,.5)), color-stop(100%,rgba(125,185,232,.5))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left,  rgba(30,87,153,.5) 0%,rgba(41,137,216,.5) 50%,rgba(32,124,202,.5) 51%,rgba(125,185,232,.5) 80%); /*Chrome10+,Safari5.1+/*/ /* Opera 11.10+ */ /* IE10+ */;
+background: -webkit-linear-gradient(left, rgba(243,235,212,.5) 0%, rgba(154,145,164,.5) 50%, rgba(139,148,144,.5) 51%, rgba(175,152,86,.5) 80%);;
+background: linear-gradient(to right,  rgba(243,235,212,.5) 0%,rgba(154,145,164,.5) 50%,rgba(139,148,144,.5) 51%,rgba(175,152,86,.5) 80%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=1 ); /* IE6-9 */
+
+padding-top: 3%;
+	text-align: center;
+	color: ivory;
+	font-size: 3em;
+	text-align: center;
+	text-shadow: 0px 3px 3px #000,
+             0px 2px 4px rgba(0,0,0,0.1),
+             0px 3px 3px rgba(0,0,0,0.1),
+             0px 4px 2px rgba(0,0,0,0.1);
+box-shadow:  0px 3px 3px #000,
+             0px 2px 4px rgba(0,0,0,0.1),
+             0px 3px 3px rgba(0,0,0,0.1),
+             0px 4px 2px rgba(0,0,0,0.1);
+
+	height: 150px;
+
+	
+}
+logo img{
+	margin-left: 4%;
+	padding-top: 1%;
+	
+	
+}
